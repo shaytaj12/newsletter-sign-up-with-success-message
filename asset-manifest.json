@@ -1,15 +1,28 @@
 {
   "files": {
-    "main.css": "/newsletter-sign-up-with-success-message/static/css/main.05419158.css",
-    "main.js": "/newsletter-sign-up-with-success-message/static/js/main.e232fd35.js",
-    "static/media/illustration-sign-up-mobile.svg": "/newsletter-sign-up-with-success-message/static/media/illustration-sign-up-mobile.3f6f1c6d3e48045cb31a0cae1ae11999.svg",
-    "static/media/illustration-sign-up-desktop.svg": "/newsletter-sign-up-with-success-message/static/media/illustration-sign-up-desktop.ce2024babf0bc98a8862252535b544c9.svg",
-    "index.html": "/newsletter-sign-up-with-success-message/index.html",
-    "main.05419158.css.map": "/newsletter-sign-up-with-success-message/static/css/main.05419158.css.map",
-    "main.e232fd35.js.map": "/newsletter-sign-up-with-success-message/static/js/main.e232fd35.js.map"
+    "main.css": "/Portfolio/static/css/main.6306263a.css",
+    "main.js": "/Portfolio/static/js/main.61053f20.js",
+    "static/js/592.eb13e557.chunk.js": "/Portfolio/static/js/592.eb13e557.chunk.js",
+    "static/media/Mario and Adrian A.jpg": "/Portfolio/static/media/Mario and Adrian A.7f44c6d6e341a27d14b3.jpg",
+    "static/media/bruchetta.svg": "/Portfolio/static/media/bruchetta.29ea078fea3d3120ed22402e901b5bbc.svg",
+    "static/media/restaurant chef B.jpg": "/Portfolio/static/media/restaurant chef B.4b4c2d26b514db32e8fc.jpg",
+    "static/media/greek salad.jpg": "/Portfolio/static/media/greek salad.bed423a1fab5b210e347.jpg",
+    "static/media/jurica-koletic.jpg": "/Portfolio/static/media/jurica-koletic.5f43727709f097ae75e7.jpg",
+    "static/media/albert-dera.jpg": "/Portfolio/static/media/albert-dera.d07d8e3e54cc585443be.jpg",
+    "static/media/joseph-gonzalez.jpg": "/Portfolio/static/media/joseph-gonzalez.d7aa89c9e831497e79c6.jpg",
+    "static/media/toa-heftiba.jpg": "/Portfolio/static/media/toa-heftiba.d35d9cbfbd6f51761cd3.jpg",
+    "static/media/restauranfood.jpg": "/Portfolio/static/media/restauranfood.07e47ead0a83f6b85b67.jpg",
+    "static/media/restaurant.jpg": "/Portfolio/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/Logo .svg": "/Portfolio/static/media/Logo .f72c913c48c5334f78f2c336ec36f22b.svg",
+    "static/media/lemon dessert.jpg": "/Portfolio/static/media/lemon dessert.d68cc87760a8479759f2.jpg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/delivery.PNG": "/Portfolio/static/media/delivery.f8e586ed0e95684bfeb1.PNG",
+    "main.6306263a.css.map": "/Portfolio/static/css/main.6306263a.css.map",
+    "main.61053f20.js.map": "/Portfolio/static/js/main.61053f20.js.map",
+    "592.eb13e557.chunk.js.map": "/Portfolio/static/js/592.eb13e557.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.05419158.css",
-    "static/js/main.e232fd35.js"
+    "static/css/main.6306263a.css",
+    "static/js/main.61053f20.js"
   ]
 }
